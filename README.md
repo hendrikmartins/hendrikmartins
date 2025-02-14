@@ -1,16 +1,44 @@
-## Hi there 👋
+# 💻 Hendrik Horikawa Martins
 
-<!--
-**hendrikmartins/hendrikmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 São Paulo, Brasil  
+📧 hendrikmartins@gmail.com | 🔗 [LinkedIn](www.linkedin.com/in/hendrik-martins)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Momento Profissional
+Sou recém-formado em **Ciências Atuariais pela UNIFESP**, com interesse em **Análise de Dados, Machine Learning e Inteligência Artificial**. Atualmente, busco oportunidades como **Analista de Dados Jr.**
+
+---
+
+## 🛠️ Tecnologias
+✔️ Python, R, SQL, Power BI, Excel, VBA  
+✔️ Inteligência Artificial e Big Data  
+✔️ Análise e Visualização de Dados  
+✔️ Java
+
+---
+
+## 🎯 Interesses (Profissionais)
+- Ciência de Dados e Machine Learning
+- Desenvolvimento de soluções em **Big Data**
+- Automação de Processos e Análise de Dados
+- Inteligência Artificial aplicada a negócios
+
+---
+
+## 📌 Habilidades/Conhecimentos (Palavras-chave)
+✔️ Análise de Dados  
+✔️ Modelagem Estatística  
+✔️ Algoritmos de Machine Learning  
+✔️ Bancos de Dados
+✔️ Desenvolvimento Back-end  
+✔️ Automação de Processos  
+✔️ Dashboarding e Data Visualization  
+✔️ Comunicação e Organização  
+
+---
+
+
+## 📬 Formas de Contato
+📧 Email: hendrikmartins@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/hendrik-martins](www.linkedin.com/in/hendrik-martins)
