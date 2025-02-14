@@ -30,11 +30,10 @@ Sou recém-formado em **Ciências Atuariais pela UNIFESP**, com interesse em **A
 ✔️ Análise de Dados  
 ✔️ Modelagem Estatística  
 ✔️ Algoritmos de Machine Learning  
-✔️ Bancos de Dados
-✔️ Desenvolvimento Back-end  
+✔️ Bancos de Dados  
 ✔️ Automação de Processos  
 ✔️ Dashboarding e Data Visualization  
-✔️ Comunicação e Organização  
+✔️ Desenvolvimento Back-end  
 
 ---
 
