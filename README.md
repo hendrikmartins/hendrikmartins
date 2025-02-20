@@ -1,43 +1,44 @@
-# 💻 Hendrik Horikawa Martins
+# 💻 Hendrik Horikawa Martins  
 
 📍 São Paulo, Brasil  
-📧 hendrikmartins@gmail.com | 🔗 [LinkedIn](www.linkedin.com/in/hendrik-martins)  
+📧 hendrikmartins@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/hendrik-martins) | 🔗 [Portfólio](https://www.hendrikmartins.com)  
 
 ---
 
-## 🚀 Momento Profissional
-Sou recém-formado em **Ciências Atuariais pela UNIFESP**, com interesse em **Análise de Dados, Machine Learning e Inteligência Artificial**. Atualmente, busco oportunidades como **Analista de Dados Jr.**
+## 🚀 Sobre Mim  
+Sou um **engenheiro de dados e desenvolvedor back-end** com experiência em **arquitetura de dados, machine learning e sistemas escaláveis**. Minha paixão está em transformar dados em soluções eficientes e inteligentes para negócios.  
+
+Atualmente, trabalho com **Big Data, automação de pipelines e desenvolvimento back-end**, criando soluções que otimizam a performance e a acessibilidade de dados para diversas aplicações.  
 
 ---
 
-## 🛠️ Tecnologias
-✔️ Python, R, SQL, Power BI, Excel, VBA  
-✔️ Inteligência Artificial e Big Data  
-✔️ Análise e Visualização de Dados  
-✔️ Java
+## 🛠️ Tecnologias e Ferramentas  
+✔ **Linguagens:** Python, R, SQL, Java, Scala  
+✔ **Banco de Dados:** PostgreSQL, MySQL, MongoDB, Redis  
+✔ **Big Data & Cloud:** Apache Spark, Kafka, AWS, Google Cloud, Azure  
+✔ **Back-end:** FastAPI, Flask, Node.js, Django  
+✔ **DevOps:** Docker, Kubernetes, Terraform, CI/CD  
+✔ **Automação e ETL:** Airflow, Apache NiFi, KNIME  
 
 ---
 
-## 🎯 Interesses (Profissionais)
-- Ciência de Dados e Machine Learning
-- Desenvolvimento de soluções em **Big Data**
-- Automação de Processos e Análise de Dados
-- Inteligência Artificial aplicada a negócios
+## 🎯 Áreas de Interesse  
+- **Engenharia de Dados** – Pipelines de dados otimizados e escaláveis  
+- **Desenvolvimento Back-end** – APIs de alto desempenho  
+- **Machine Learning** – Modelos aplicados a sistemas reais  
+- **Data Lakes & Warehouses** – Infraestrutura robusta para análise de dados  
+- **Cloud Computing** – Soluções distribuídas e escaláveis  
 
 ---
 
-## 📌 Habilidades/Conhecimentos (Palavras-chave)
-✔️ Análise de Dados  
-✔️ Modelagem Estatística  
-✔️ Algoritmos de Machine Learning  
-✔️ Bancos de Dados  
-✔️ Automação de Processos  
-✔️ Dashboarding e Data Visualization  
-✔️ Desenvolvimento Back-end  
+## 📌 Projetos Destacados  
+🔹 **[Data Pipeline para Previsão de Vendas](https://github.com/hendrikmartins/data-pipeline-sales)** – Pipeline de dados real-time para previsão de demanda com Spark e Kafka  
+🔹 **[API de Análise de Sentimentos](https://github.com/hendrikmartins/sentiment-api)** – API FastAPI para análise de sentimentos em tweets usando NLP  
+🔹 **[Dashboard Interativo para Dados Financeiros](https://github.com/hendrikmartins/finance-dashboard)** – Dashboard em Streamlit para análise de dados de mercado  
 
 ---
 
-
-## 📬 Formas de Contato
+## 📬 Contato  
 📧 Email: hendrikmartins@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/hendrik-martins](www.linkedin.com/in/hendrik-martins)
+🔗 LinkedIn: [linkedin.com/in/hendrik-martins](https://www.linkedin.com/in/hendrik-martins)  
+🔗 GitHub: [github.com/hendrikmartins](https://www.github.com/hendrikmartins)  
